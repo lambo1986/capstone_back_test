@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pdb
+*.dll
+*.exe
+*.runtimeconfig.dev.json
+.DS_Store
+*.swp
